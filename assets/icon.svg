@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" role="img" aria-labelledby="title desc">
+<title id="title">WAV Cutter</title><desc id="desc">Trim uncompressed WAV audio by precise start and end times using Python's standard library.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#134e4a"/></linearGradient></defs>
+<rect width="720" height="240" rx="28" fill="url(#g)"/>
+<circle cx="116" cy="120" r="58" fill="none" stroke="#2dd4bf" stroke-width="7" opacity=".9"/>
+<circle cx="116" cy="120" r="29" fill="#2dd4bf" opacity=".18"/>
+<path d="M82 120h68M116 86v68" stroke="#2dd4bf" stroke-width="7" stroke-linecap="round"/>
+<path d="M220 78h420M220 120h330M220 162h380" stroke="#e2e8f0" stroke-width="12" stroke-linecap="round" opacity=".82"/>
+<text x="220" y="54" fill="#99f6e4" font-family="Arial,sans-serif" font-size="20" font-weight="700">WAV Cutter</text>
+</svg>
